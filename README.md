@@ -1,6 +1,8 @@
 # Turkish-HexSpeak
 TURk1sH h3Xsp33K wORD l1sT
 
+What is hexSpeak -> https://en.wikipedia.org/wiki/Hexspeak
+
 script -> Main.scala
 
 run it online -> https://scastie.scala-lang.org/sumnulu/UkOm6B9YRoaW5bLmQXElKA
